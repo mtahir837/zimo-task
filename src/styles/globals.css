@@ -1,0 +1,74 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* *{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-color: #F0F2F5;
+} */
+
+
+
+
+
+.main_div {
+    background: url('../../public/assets/images/logo.png');
+    
+}
+
+
+
+header {
+    background-color: none !important;
+}
+
+.card-div {
+    height: auto;
+}
+
+.backimage {
+    background-image: url('../../public/assets/images/Path\ 27320.png');
+}
+
+.days {
+    color: white;
+   padding-left: 10px;
+   padding-right: 10px;
+
+}
+
+
+
+.fimage {
+    margin-right: 30px;
+}
+
+.simage {
+    margin-right: 20px;
+}
+
+
+
+
+
+.slide-image {
+    margin-top: 120px;
+    margin-bottom: 20px;
+}
+
+.united {
+    justify-content: center;
+    font-size: 10px;
+    margin-top: 10px;
+}
+
+
+
+.bottom-div img {
+    width: 60px;
+    height: 20px;
+    margin-top: 10px;
+}
+
